@@ -3,7 +3,7 @@
   
 🌌I'm currently learning web development and love designing clean, responsive websites.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-%2300C4CC?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://portfolio-alcvks-projects.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/My%20Portfolio-Explore%20Here-%2300C4CC?style=for-the-badge&logo=rocket&logoColor=white)](https://portfolio-alcvks-projects.vercel.app/)
 
 ## 🛠️ My skills in progress:
 
