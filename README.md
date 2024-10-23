@@ -1,7 +1,7 @@
 
 # Hi! I'm Ala - Web Developer in Progress 👋
   
-🌌I'm currently learning web development and love designing clean, responsive websites.
+🌟I'm currently learning web development and love designing clean, responsive websites.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%234d7a77?style=for-the-badge&logo=rocket&logoColor=white)](https://portfolio-alcvks-projects.vercel.app/)
 
@@ -12,7 +12,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23FED7A5?style=for-the-badge&logo=javascript&logoColor=%2320212B)
 ![Responsive Design](https://img.shields.io/badge/Responsive%20Design-%23534145?style=for-the-badge&logo=mobile&logoColor=white)
 
-## 🌠 Reach Out:
+## ☄️ Reach Out:
 
 If you'd like to chat, collaborate, or share ideas, feel free to contact me:  
 📧 **alicjacielecka42@gmail.com**
