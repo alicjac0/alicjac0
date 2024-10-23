@@ -6,7 +6,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-%234d7a77?style=for-the-badge&logo=rocket&logoColor=white)](https://portfolio-alcvks-projects.vercel.app/)
 
 
-## 🛠️ My skills in progress:
+## 🛠️ I'm learning:
 ![HTML5](https://img.shields.io/badge/HTML5-%232D4354?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%23535c37?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23FED7A5?style=for-the-badge&logo=javascript&logoColor=%2320212B)
