@@ -1,7 +1,7 @@
-#👋 Hi, I’m Ala - Aspiring Web Developer
+👋 Hi, I’m Ala - Aspiring Web Developer
 I'm currently learning web development and love designing clean, responsive websited.
 
-##My skills in progress:
+My skills in progress:
 - **HTML & CSS**
 - **JavaScript**
 
