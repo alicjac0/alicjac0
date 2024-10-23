@@ -1,5 +1,5 @@
 
-#Hi! I'm Ala - Web Developer in Progress 👋
+# Hi! I'm Ala - Web Developer in Progress 👋
   
 🌌I'm currently learning web development and love designing clean, responsive websites.
 
@@ -13,7 +13,7 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Responsive Design](https://img.shields.io/badge/Responsive-Design-%234CAF50?style=for-the-badge&logo=css3)
 
-🌠 Reach Out:
+## 🌠 Reach Out:
 
 If you'd like to chat, collaborate, or share ideas, feel free to contact me:  
 📧 **alicjacielecka42@gmail.com**
