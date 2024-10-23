@@ -5,9 +5,6 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23ab3030?style=for-the-badge&logo=rocket&logoColor=white)](https://portfolio-alcvks-projects.vercel.app/)
 
----
-
-## 🛠️ Skills I'm Orbiting Around:
 
 
 ## 🛠️ My skills in progress:
