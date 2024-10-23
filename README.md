@@ -3,13 +3,13 @@
   
 🌌I'm currently learning web development and love designing clean, responsive websites.
 
-![Portfolio](https://img.shields.io/badge/Portfolio-Explore%20Here-%23ab3030?style=for-the-badge&logo=rocket&logoColor=white)(https://portfolio-alcvks-projects.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore%20Here-%23ab3030?style=for-the-badge&logo=rocket&logoColor=white)](https://portfolio-alcvks-projects.vercel.app/)
 
 ## 🛠️ My skills in progress:
-![HTML5](https://img.shields.io/badge/HTML5-%2332D4354?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%232D4354?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%2373766A?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23FED7A5?style=for-the-badge&logo=javascript&logoColor=%2320212B)
-![Responsive Design](https://img.shields.io/badge/Responsive%20Design-%239E6752?style=for-the-badge&logo=mobile&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive%20Design-%23534145?style=for-the-badge&logo=mobile&logoColor=white)
 
 ## 🌠 Reach Out:
 
