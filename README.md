@@ -1,9 +1,9 @@
 
-Hi! I'm Ala - Web Developer in Progress 👋
+#Hi! I'm Ala - Web Developer in Progress 👋
   
 🌌I'm currently learning web development and love designing clean, responsive websites.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-%2300C4CC?style=for-the-badge&logo=internet-explorer&logoColor=white)]()
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-%2300C4CC?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://portfolio-alcvks-projects.vercel.app/)
 
 ## 🛠️ My skills in progress:
 
@@ -12,11 +12,6 @@ Hi! I'm Ala - Web Developer in Progress 👋
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Responsive Design](https://img.shields.io/badge/Responsive-Design-%234CAF50?style=for-the-badge&logo=css3)
-
-
-## 🧭 My Learning Journey:
-
-![Learning Status](https://img.shields.io/badge/Learning-Expanding%20Daily-orange?style=for-the-badge&logo=atom&logoColor=white)
 
 🌠 Reach Out:
 
