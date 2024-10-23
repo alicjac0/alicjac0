@@ -1,7 +1,7 @@
 
 # Hi! I'm Ala - Web Developer in Progress 👋
   
-🌟I'm currently learning web development and love designing clean, responsive websites.
+🌟I love designing clean, responsive websites.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%234d7a77?style=for-the-badge&logo=rocket&logoColor=white)](https://portfolio-alcvks-projects.vercel.app/)
 
