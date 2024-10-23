@@ -7,7 +7,7 @@
 
 ## 🛠️ My skills in progress:
 ![HTML5](https://img.shields.io/badge/HTML5-%232D4354?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%2373766A?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%23535c37?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23FED7A5?style=for-the-badge&logo=javascript&logoColor=%2320212B)
 ![Responsive Design](https://img.shields.io/badge/Responsive%20Design-%23534145?style=for-the-badge&logo=mobile&logoColor=white)
 
