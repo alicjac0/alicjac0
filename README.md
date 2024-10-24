@@ -7,10 +7,10 @@
 
 
 ## 🛠️ I'm learning:
-![HTML5](https://img.shields.io/badge/HTML5-%232D4354?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%23535c37?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23FED7A5?style=for-the-badge&logo=javascript&logoColor=%2320212B)
-![Responsive Design](https://img.shields.io/badge/Responsive%20Design-%23534145?style=for-the-badge&logo=mobile&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23A6A6A6?style=for-the-badge&logo=html5&logoColor=%23111111)
+![CSS3](https://img.shields.io/badge/CSS3-%23698739?style=for-the-badge&logo=css3&logoColor=%23E1E1E1)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323A21?style=for-the-badge&logo=javascript&logoColor=%23E1E1E1)
+![Responsive Design](https://img.shields.io/badge/Responsive%20Design-%23111111?style=for-the-badge&logo=mobile&logoColor=%23E1E1E1)
 
 ## ☄️ Reach Out:
 
