@@ -7,9 +7,9 @@
 
 
 ## 🛠️ I'm learning:
+![JavaScript](https://img.shields.io/badge/JavaScript-%23FFFF1F?style=for-the-badge&logo=javascript&logoColor=%231E1E1E)
 ![HTML5](https://img.shields.io/badge/HTML5-%23FF8A15?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%2336A6CF?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23FFFF1F?style=for-the-badge&logo=javascript&logoColor=white)
 ![Responsive Design](https://img.shields.io/badge/Responsive%20Design-%23234CA5?style=for-the-badge&logo=mobile&logoColor=white)
 
 ## ☄️ Reach Out:
