@@ -3,7 +3,7 @@
   
 🌟I love designing clean, responsive websites.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%231E1E1E?style=for-the-badge&logo=rocket&logoColor=white)](https://portfolio-alcvks-projects.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%230D0D0D?style=for-the-badge&logo=rocket&logoColor=white)](https://portfolio-alcvks-projects.vercel.app/)
 
 
 ## 🛠️ I'm learning:
