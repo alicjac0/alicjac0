@@ -1,7 +1,9 @@
 # Technical High School Student 👋
-### Programming • Mathematics • Physics 
+### Programming • Mathematics • Physics
 
-Focused on building strong foundations in programming and problem solving.  
-Interested in technical software, simulations and computational models. 🌌
+Focused on developing strong foundations in programming and analytical thinking.  
+Interested in physics-based simulations, astrophysics, and computational approaches to physical problems 🪐
 
-Working mainly with Java, C++, JavaScript, SQL and PHP.
+**Core languages:** Java, C++  
+**Currently learning:** Python  
+**Additional experience:** JavaScript, SQL, PHP, HTML, CSS
